@@ -1,4 +1,4 @@
-#include <stdio.h> //inclusão da bibliotecas, math.n será responsavél pelo valor absoluto da diferença entre dois numeros
+#include <stdio.h> //inclusão das bibliotecas, math.n será biblioteca que nos permitira ver o valor absoluto da diferença entre dois numeros
 #include <math.h>
 
 int main(){
