@@ -20,20 +20,15 @@ Este projeto acompanha minha evolução em:
 
 ### 🧠 Problemas resolvidos automaticamente
 
-PROBLEMS_SOLVED: 0
-
-*(Esse número é atualizado automaticamente pelo GitHub Actions sempre que um novo arquivo `.c` é adicionado.)*
+PROBLEMS_SOLVED: 26
 
 ---
+## 📑 Problemas Resolvidos
 
-# 📈 Atividade no GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=v-anjos&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=v-anjos&layout=compact&theme=tokyonight)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=v-anjos&theme=github-dark)
-
----
-
-# 🏆 Progresso por Categoria
+| ID | Problema | Categoria | Código |
+|----|---------|----------|--------|
+| 1000 | Hello World | Iniciante | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/Homework-INICIAL/HelloWorld.c) |
+| 1001 | Extremamente Básico | Iniciante | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/Homework-INICIAL/Estremamente%20B%C3%A1sico.c) |
+| 1002 | Área do Cículo | Iniciante | .[Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/Homework-INICIAL/Area%20do%20Circulo.c)
+| 1035 | Teste de Seleção | Iniciante | [Ver](iniciante/1035.c) |
+| 1021 | Notas e Moedas | Matemática | [Ver](matematica/1021.c) |
