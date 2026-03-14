@@ -29,6 +29,6 @@ PROBLEMS_SOLVED: 26
 |----|---------|----------|--------|
 | 1000 | Hello World | Iniciante | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/Homework-INICIAL/HelloWorld.c) |
 | 1001 | Extremamente Básico | Iniciante | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/Homework-INICIAL/Estremamente%20B%C3%A1sico.c) |
-| 1002 | Área do Cículo | Iniciante | .[Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/Homework-INICIAL/Area%20do%20Circulo.c)
+| 1002 | Área do Cículo | Iniciante | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/Homework-INICIAL/Area%20do%20Circulo.c)
 | 1035 | Teste de Seleção | Iniciante | [Ver](iniciante/1035.c) |
 | 1021 | Notas e Moedas | Matemática | [Ver](matematica/1021.c) |
