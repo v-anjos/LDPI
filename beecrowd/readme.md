@@ -18,6 +18,6 @@ Este projeto faz parte do meu processo de desenvolvimento em:
 
 # 📊 Progresso
 ![Problems Solved](https://img.shields.io/badge/problems--solved-25-brightgreen)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=v-anjos&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=v-anjos/LDPI&theme=github-dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=v-anjos&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-anjos&layout=compact)
