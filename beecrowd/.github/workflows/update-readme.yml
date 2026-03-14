@@ -1,4 +1,4 @@
-name: Update Problem Count
+name: Update Problem Counter
 
 on:
   push:
@@ -10,22 +10,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Count problems
+      - name: Count C files
+        id: counter
         run: |
           COUNT=$(find . -name "*.c" | wc -l)
-          echo "PROBLEMS=$COUNT" >> $GITHUB_ENV
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
 
       - name: Update README
         run: |
-          sed -i "s/PROBLEMS_SOLVED:.*/PROBLEMS_SOLVED: $PROBLEMS/" README.md
+          sed -i "s/PROBLEMS_SOLVED:.*/PROBLEMS_SOLVED: ${{ steps.counter.outputs.count }}/" readme.md
 
       - name: Commit changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add README.md
-          git commit -m "Update problem count" || echo "No changes"
+          git add readme.md
+          git commit -m "Update problem counter" || echo "No changes"
           git push
