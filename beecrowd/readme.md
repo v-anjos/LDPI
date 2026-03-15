@@ -30,22 +30,22 @@ Este projeto acompanha minha evolução em:
 | 1004 | Produto Simples | Iniciante | Sequencial | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/Homework-INICIAL/Produto%20Simples.c) |
 | 1005 | Média 1 | Iniciante | Sequencial | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/Homework-INICIAL/M%C3%A9dia%201.c) |
 | 1006 | Média 2 | Iniciante | Sequencial | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/Homework-INICIAL/M%C3%A9dia%202.c) |
-| 1007 | Teste de Seleção | Iniciante | Sequencial | [Ver](iniciante/1035.c) |
-| 1008 | Teste de Seleção | Iniciante | Sequencial | [Ver](iniciante/1035.c) |
-| 1009 | Teste de Seleção | Iniciante | Sequencial | [Ver](iniciante/1035.c) |
-| 1010 | Teste de Seleção | Iniciante | Sequencial | [Ver](iniciante/1035.c) |
-| 1011 | Teste de Seleção | Iniciante | Sequencial | [Ver](iniciante/1035.c) |
-| 1012 | Teste de Seleção | Iniciante | Sequencial | [Ver](iniciante/1035.c) |
-| 1013 | Teste de Seleção | Iniciante | Sequencial | [Ver](iniciante/1035.c) |
-| 1014 | Teste de Seleção | Iniciante | Sequencial | [Ver](iniciante/1035.c) |
-| 1015 | Teste de Seleção | Iniciante | Sequencial | [Ver](iniciante/1035.c) |
-| 1016 | Teste de Seleção | Iniciante | Sequencial | [Ver](iniciante/1035.c) |
-| 1017 | Teste de Seleção | Iniciante | Sequencial | [Ver](iniciante/1035.c) |
-| 1018 | Teste de Seleção | Iniciante | Sequencial | [Ver](iniciante/1035.c) |
-| 1019 | Teste de Seleção | Iniciante | Sequencial | [Ver](iniciante/1035.c) |
-| 1020 | Teste de Seleção | Iniciante | Sequencial | [Ver](iniciante/1035.c) |
-| 1021 | Teste de Seleção | Iniciante | Sequencial | [Ver](iniciante/1035.c) |
-| 1035 | Teste de Seleção | Iniciante | Sequencial | [Ver](iniciante/1035.c) |
-| 1036 | Teste de Seleção | Iniciante | Sequencial | [Ver](iniciante/1035.c) |
-| 1037 | Teste de Seleção | Iniciante | Sequencial | [Ver](iniciante/1035.c) |
-| 1038 | Teste de Seleção | Iniciante | Sequencial | [Ver](iniciante/1035.c) |
+| 1007 | Diferença | Iniciante | Sequencial | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/Homework-INICIAL/Diferen%C3%A7a.c) |
+| 1008 | Salário | Iniciante | Sequencial | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/Homework-INICIAL/Sal%C3%A1rio.c) |
+| 1009 | Salário com Bônus | Iniciante | Sequencial | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/Homework-INICIAL/Sal%C3%A1rio%20com%20b%C3%B4nus.c) |
+| 1010 | Cálculo Simples | Iniciante | Sequencial | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista2/C%C3%A1lculo%20Simples.c) |
+| 1011 | Esfera | Iniciante | Sequencial | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista2/Esfera.c) |
+| 1012 | Área | Iniciante | Sequencial | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista2/%C3%81rea.c) |
+| 1013 | O Maior | Iniciante | Sequencial | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista2/O%20Maior.c) |
+| 1014 | Consumo | Iniciante | Sequencial | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista2/Consumo.c) |
+| 1015 | Distância Entre Dois Pontos | Iniciante | Sequencial | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista2/Dist%C3%A2ncia%20Entre%20Dois%20Pontos.c) |
+| 1016 | Distância | Iniciante | Sequencial | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista2/Distancia.c) |
+| 1017 | Gasto Combustível | Iniciante | Sequencial | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista2/Gasto%20combust%C3%ADvel.c) |
+| 1018 | Cédulas | Iniciante | Sequencial | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista2/C%C3%A9dulas.c) |
+| 1019 | Conversão de Tempo | Iniciante | Sequencial | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista2/Convers%C3%A3o%20de%20Tempo.c) |
+| 1020 | Idade em Dias | Iniciante | Sequencial | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista2/idade%20em%20dias.c) |
+| 1021 | Notas e Moedas | Iniciante | Sequencial | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista2/Notas%20e%20Moedas.c) |
+| 1035 | Teste de Seleção 1 | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista2/Teste%20de%20Sele%C3%A7%C3%A3o%201.c) |
+| 1036 | Fórmula de Bhaskara | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista2/F%C3%B3rmula%20de%20Bhaskara.c) |
+| 1037 | Intervalo | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/Intervalo.c) |
+| 1038 | Lanche | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/Lanche.c) |
