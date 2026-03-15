@@ -28,8 +28,8 @@ Este projeto acompanha minha evolução em:
 | 1002 | Área do Cículo | Iniciante | Sequencial | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/Homework-INICIAL/Area%20do%20Circulo.c)
 | 1003 | Soma Simples | Iniciante | Sequencial | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/Homework-INICIAL/Soma%20Simples.c) |
 | 1004 | Produto Simples | Iniciante | Sequencial | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/Homework-INICIAL/Produto%20Simples.c) |
-| 1005 | Teste de Seleção | Iniciante | Sequencial | [Ver](iniciante/1035.c) |
-| 1006 | Teste de Seleção | Iniciante | Sequencial | [Ver](iniciante/1035.c) |
+| 1005 | Média 1 | Iniciante | Sequencial | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/Homework-INICIAL/M%C3%A9dia%201.c) |
+| 1006 | Média 2 | Iniciante | Sequencial | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/Homework-INICIAL/M%C3%A9dia%202.c) |
 | 1007 | Teste de Seleção | Iniciante | Sequencial | [Ver](iniciante/1035.c) |
 | 1008 | Teste de Seleção | Iniciante | Sequencial | [Ver](iniciante/1035.c) |
 | 1009 | Teste de Seleção | Iniciante | Sequencial | [Ver](iniciante/1035.c) |
