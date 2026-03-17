@@ -49,3 +49,5 @@ Este projeto acompanha minha evolução em:
 | 1036 | Fórmula de Bhaskara | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista2/F%C3%B3rmula%20de%20Bhaskara.c) |
 | 1037 | Intervalo | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/Intervalo.c) |
 | 1038 | Lanche | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/Lanche.c) |
+| 2006 | Identificando o Chá | Iniciante | Desconhecido | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/identificando%20o%20ch%C3%A1.c) |
+
