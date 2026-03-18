@@ -11,13 +11,7 @@ Este projeto acompanha minha evolução em:
 - algoritmos
 - estruturas de dados
 - programação competitiva
-
----
-
-# 📊 Estatísticas do Repositório
-
-### 🧠 Problemas resolvidos 29
-
+  
 ---
 ## 📑 Problemas Resolvidos
 
