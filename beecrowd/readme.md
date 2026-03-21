@@ -47,8 +47,8 @@ Este projeto acompanha minha evolução em:
 | 1041 | Coordenadas de um Ponto | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista3/Coordenadas%20de%20um%20Ponto.c) |
 | 1042 | Sort Simples| Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista3/Sort%20Simples.c) |
 | 1043 | Triângulo| Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista3/Tri%C3%A2ngulo.c) |
-| 1044 | Multiplos | Seleção | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/Multiplos.c) |
-| 1045 | Tipos de Triangulo | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/Tipos%20de%20Triangulo.c) |
+| 1044 | Multiplos | Iniciante| Seleção | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/Multiplos.c) |
+| 1045 | Tipos de Triangulo | Iniciante| Seleção | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/Tipos%20de%20Triangulo.c) |
 | 1046 | Tempo de Jogo | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista3/Tempo%20de%20Jogo.c) |
 | 1047 | Tempo de Jogo com minutos | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista3/Tempo%20de%20Jogo%20com%20Minutos.c)
 | 1049 | Animal | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista3/animal.c) |
