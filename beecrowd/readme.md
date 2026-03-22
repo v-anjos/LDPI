@@ -54,7 +54,8 @@ Este projeto acompanha minha evolução em:
 | 1048 | Aumento de Salario | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/Aumento%20de%20salario.C) |
 | 1049 | Animal | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista3/animal.c) |
 | 1050 | DDD | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista3/DDD.c) |
-| 1059 | Numeros Pares | Iniciante | Repetção | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/N%C3%BAmeros%20Pares.c) |
+| 1059 | Numeros Pares | Iniciante | Repetição | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/N%C3%BAmeros%20Pares.c) |
+| 1060 | Numeros Positivos | Iniciante | Repetição | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/Numeros%20Positivos.c) |
 | 1061 | Tempo de um evento | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/Tempo%20de%20um%20Evento.c) |
 | 1065 | Pares entre Cinco Números | Iniciante | Repetição | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/Pares%20entre%20Cinco%20N%C3%BAmeros.c) |
 | 2006 | Identificando o Chá | Iniciante | Desconhecido | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/identificando%20o%20ch%C3%A1.c) |
