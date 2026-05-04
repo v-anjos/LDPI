@@ -56,6 +56,7 @@ Este projeto acompanha minha evolução em:
 | 1048 | Aumento de Salario | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/Aumento%20de%20salario.C) |
 | 1049 | Animal | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista3/animal.c) |
 | 1050 | DDD | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista3/DDD.c) |
+| 1051 | Imposto de Renda | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/semlista/Imposto%20de%20Renda.c) |
 | 1059 | Numeros Pares | Iniciante | Repetição | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista4/N%C3%BAmeros%20Pares.c) |
 | 1060 | Numeros Positivos | Iniciante | Repetição | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/Numeros%20Positivos.c) |
 | 1061 | Tempo de um evento | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista4/Tempo%20de%20um%20Evento.c) |
