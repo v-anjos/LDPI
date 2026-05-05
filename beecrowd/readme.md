@@ -61,6 +61,7 @@ Este projeto acompanha minha evolução em:
 | 1059 | Numeros Pares | Iniciante | Repetição | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista4/N%C3%BAmeros%20Pares.c) |
 | 1060 | Numeros Positivos | Iniciante | Repetição | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/semlista/Numeros%20Positivos.c) |
 | 1061 | Tempo de um evento | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista4/Tempo%20de%20um%20Evento.c) |
+| 1064 | Positivos e Média | Iniciante | Repetição | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/semlista/Positivos%20e%20M%C3%A9dia.c) |
 | 1065 | Pares entre Cinco Números | Iniciante | Repetição | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/semlista/Pares%20entre%20Cinco%20N%C3%BAmeros.c) |
 | 1066 | Pares, Ímpares, Positivos e Negativos| Iniciante | Repetição | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista4/Pares%2C%20%C3%8Dmpares%2C%20Positivos%20e%20Negativos.c) |
 | 1071 | Soma de Impares Consecutivos I | Iniciante | Repetição | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista4/Soma%20de%20Impares%20Consecutivos%20I.c) |
